@@ -3,7 +3,7 @@
 
 📥 Step 1: Download the Script
 
-git clone https://github.com/dhruvkachhadiya3350/ELK_Installation.git
+git clone https://github.com/dhruvkachhadiya3350/ELK_Installation-.git
 cd your-repo-name
 
 🧩 Step 2: Create / Verify Script File
